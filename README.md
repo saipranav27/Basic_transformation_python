@@ -1,2 +1,2 @@
 # Basic_transformation_python
-Python code for basic transformations on bankdata and storing the table in Hive after cleaning of data.
+Python code for basic transformations and cleaning of data on bankdata for hadoop and spark 
